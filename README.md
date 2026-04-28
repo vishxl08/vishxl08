@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vishal%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20%26%20AI%20Student%20%7C%20Python%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+# 👋 Hi, I'm Vishal Yadav
+
+### CS & AI Student · Python Developer · ML Enthusiast
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -10,16 +11,15 @@
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
 [![Gmail](https://img.shields.io/badge/vishaly6215%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishaly6215@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-yadav15)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishxl08)
+![Profile Views](https://komarev.com/ghpvc/?username=vishxl08&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<!-- About Me -->
 ## 🧠 About Me
 
 ```python
@@ -42,7 +42,6 @@ me.say_hi()
 
 ---
 
-<!-- Skills -->
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -66,13 +65,12 @@ me.say_hi()
 
 ---
 
-<!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=vishxl08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_radius=12" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishxl08&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12" width="48%" />
+<img src="https://streak-stats.demolab.com?user=vishxl08&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishxl08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&border_radius=12" width="40%" />
 
@@ -80,7 +78,6 @@ me.say_hi()
 
 ---
 
-<!-- Activity Graph -->
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -89,7 +86,6 @@ me.say_hi()
 
 ---
 
-<!-- What I'm Working On -->
 ## 🔭 Currently Exploring
 
 - 🤖 **Deep Learning** — CNNs, RNNs, and Transformers
@@ -99,7 +95,6 @@ me.say_hi()
 
 ---
 
-<!-- Fun Quote -->
 ## 💬 Thought of the Day
 
 <div align="center">
@@ -109,9 +104,6 @@ me.say_hi()
 </div>
 
 ---
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 <div align="center">
   <sub>⭐ Star some repos if you find them interesting — it keeps me motivated!</sub>
