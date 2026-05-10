@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:312e81,100:7c3aed&text=Vishal%20Yadav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Researcher%20•%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
@@ -75,7 +75,7 @@ class VishalYadav:
 
 
 me = VishalYadav()
-````
+
 
 ---
 
