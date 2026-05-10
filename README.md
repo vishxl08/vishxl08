@@ -1,110 +1,184 @@
+````md
 <div align="center">
 
-# 👋 Hi, I'm Vishal Yadav
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:312e81,100:7c3aed&text=Vishal%20Yadav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Researcher%20•%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 
-### CS & AI Student · Python Developer · ML Enthusiast
+</div>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Machine+Learning+Explorer+%F0%9F%94%AC;Turning+Data+into+Decisions+%F0%9F%93%8A;B.Tech+%40+Bennett+University+%F0%9F%8F%AB" alt="Typing SVG" />
-</a>
+<div align="center">
 
-<br/>
-
-[![Gmail](https://img.shields.io/badge/vishaly6215%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishaly6215@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-yadav15)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishxl08)
-![Profile Views](https://komarev.com/ghpvc/?username=vishxl08&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=850&height=120&lines=Building+AI-Powered+Systems+%F0%9F%A7%A0;LLM+Applications+%7C+Deep+Learning+%7C+NLP+%F0%9F%9A%80;FastAPI+%7C+PyTorch+%7C+TensorFlow+%7C+LangChain;Researching+%26+Engineering+Intelligent+Products" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+<div align="center">
+
+<a href="mailto:vishaly6215@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/vishal-yadav15">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vishxl08">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://orcid.org/0009-0001-6958-7159">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=vishxl08&style=for-the-badge&color=7c3aed"/>
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
 ```python
 class VishalYadav:
-    def __init__(self):
-        self.name        = "Vishal Yadav"
-        self.university  = "Bennett University"
-        self.degree      = "B.Tech — Computer Science & AI"
-        self.focus       = ["Machine Learning", "Neural Networks", "Data Analytics"]
-        self.tools       = ["Python", "scikit-learn", "NumPy", "Pandas", "Jupyter"]
-        self.goal        = "Solve real-world problems through AI & data-driven tech"
-        self.status      = "🟢 Open to internships & collaborations"
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something cool together 🚀")
+    def __init__(self):
+
+        self.role = "AI/ML Engineer"
+
+        self.specialization = [
+            "Machine Learning",
+            "Deep Learning",
+            "NLP",
+            "Computer Vision",
+            "LLM Applications"
+        ]
+
+        self.current_work = [
+            "AI Research",
+            "RAG Systems",
+            "Generative AI",
+            "FastAPI AI Products"
+        ]
+
+        self.languages = ["Python", "C++", "SQL"]
+
+        self.frameworks = [
+            "TensorFlow",
+            "PyTorch",
+            "LangChain",
+            "FastAPI",
+            "Django"
+        ]
+
+        self.status = "Open to internships & collaborations 🚀"
+
 
 me = VishalYadav()
-me.say_hi()
+````
+
+---
+
+# ⚡ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,sql,tensorflow,pytorch,fastapi,django,flask,git,github,vscode,linux,postgresql&perline=7"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| 🚀 Project              | 💡 Description                                          |
+| ----------------------- | ------------------------------------------------------- |
+| 🧠 ClauseGuard          | AI legal document analyzer using RAG + LangChain + Groq |
+| 🍎 NutriAI              | AI-powered nutrition & fitness tracking platform        |
+| 🧬 Alzheimer Detection  | CNN-based MRI disease stage prediction                  |
+| 📚 Konkani NLP Research | First abstractive summarization benchmark for Konkani   |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishxl08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=vishxl08&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishxl08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishxl08&bg_color=0d1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vishxl08/vishxl08/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# 🔬 Currently Exploring
+
+<div align="center">
+
+| Domain            | Focus                      |
+| ----------------- | -------------------------- |
+| 🤖 AI Engineering | Scalable AI Systems        |
+| 📚 NLP Research   | Low-resource Language AI   |
+| ⚡ Generative AI   | RAG & LLM Pipelines        |
+| 🌐 Backend AI     | FastAPI + LangChain        |
+| 🚀 Open Source    | AI Community Contributions |
+
+</div>
+
+---
+
+# 🏆 Certifications
+
+<div align="center">
+
+🥇 NVIDIA — CUDA C++ Accelerated Computing
+🥇 IBM — Introduction to Artificial Intelligence
+🥇 IBM — Python for Data Science & AI
+🥇 Johns Hopkins University — Neural Networks
+
+</div>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=120&section=footer"/>
+
+### ⭐ Thanks for visiting my profile!
+
+Building • Researching • Innovating 🚀
+
+</div>
 ```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### ML / AI Ecosystem
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Dev Environment
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vishxl08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_radius=12" width="48%" />
-<img src="https://streak-stats.demolab.com?user=vishxl08&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishxl08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&border_radius=12" width="40%" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishxl08&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 🔭 Currently Exploring
-
-- 🤖 **Deep Learning** — CNNs, RNNs, and Transformers
-- 📊 **Data Science** — End-to-end ML pipelines & EDA
-- 🧪 **Research** — Applying AI to real-world domains
-- 🌐 **Open Source** — Contributing to ML/AI projects
-
----
-
-## 💬 Thought of the Day
-
-<div align="center">
-
-> *"Data is the new oil, but AI is the refinery."*
-
-</div>
-
----
-
-<div align="center">
-  <sub>⭐ Star some repos if you find them interesting — it keeps me motivated!</sub>
-</div>
