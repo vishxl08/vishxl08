@@ -11,7 +11,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -35,11 +35,11 @@
 
 </div>
 
----
+
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-```python
+python
 class VishalYadav:
 
     def __init__(self):
@@ -77,7 +77,7 @@ class VishalYadav:
 me = VishalYadav()
 
 
----
+
 
 # ⚡ Tech Arsenal
 
@@ -93,7 +93,7 @@ me = VishalYadav()
 
 </div>
 
----
+
 
 # 🚀 Featured Projects
 
@@ -108,7 +108,7 @@ me = VishalYadav()
 
 </div>
 
----
+
 
 # 📊 GitHub Analytics
 
@@ -122,7 +122,7 @@ me = VishalYadav()
 
 </div>
 
----
+
 
 # 📈 Contribution Activity
 
@@ -132,7 +132,7 @@ me = VishalYadav()
 
 </div>
 
----
+
 
 # 🐍 Contribution Snake Animation
 
@@ -142,7 +142,7 @@ me = VishalYadav()
 
 </div>
 
----
+
 
 # 🔬 Currently Exploring
 
@@ -158,7 +158,7 @@ me = VishalYadav()
 
 </div>
 
----
+
 
 # 🏆 Certifications
 
@@ -181,4 +181,4 @@ me = VishalYadav()
 Building • Researching • Innovating 🚀
 
 </div>
-```
+
