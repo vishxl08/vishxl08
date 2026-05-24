@@ -157,25 +157,6 @@ CNN-based MRI brain scan classifier predicting **4 stages of Alzheimer's** with 
 
 ---
 
-## 🔬 Research
-
-<div align="center">
-
-> **Abstractive Summarization on a Low-Resource Language: Konkani**  
-> *Mentor: Mr. Vaibhav Sharma · Asst. Professor, SCSET — Bennett University*
-
-</div>
-
-Built the **first known Konkani NLP corpus** — 18,055 article-headline pairs scraped across 9 categories with Unicode normalization for Devanagari script. Fine-tuned **IndicBART** (AI4Bharat's mBART-based seq2seq model) — the first published abstractive NLP benchmark for Konkani.
-
-<div align="center">
-
-![ROUGE-1](https://img.shields.io/badge/ROUGE--1-76.85-7c6af7?style=for-the-badge&labelColor=1a1040)
-![ROUGE-2](https://img.shields.io/badge/ROUGE--2-39.92-00e5ff?style=for-the-badge&labelColor=1a1040)
-![ROUGE-L](https://img.shields.io/badge/ROUGE--L-76.89-f06292?style=for-the-badge&labelColor=1a1040)
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
@@ -224,17 +205,6 @@ Built the **first known Konkani NLP corpus** — 18,055 article-headline pairs s
 
 ---
 
-## ✦ Beyond The Build
-
-<div align="center">
-
-| ⚽ Football fan | 🌐 Language nerd (1600+ exist!) | 🌙 Night coder |
-|:-:|:-:|:-:|
-| **📖 ArXiv daily reader** | **🔥 2nd year building like a senior** | **🎯 DSA for (sometimes) fun** |
-
-</div>
-
----
 
 <div align="center">
 
