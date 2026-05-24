@@ -1,184 +1,243 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:312e81,100:7c3aed&text=Vishal%20Yadav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Researcher%20•%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:080810,40:1a1040,70:3d2b8a,100:7c6af7&text=Vishal%20Yadav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Builder%20of%20Intelligent%20Systems&descAlignY=58&descSize=17&descColor=c4b5fd"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=850&height=120&lines=Building+AI-Powered+Systems+%F0%9F%A7%A0;LLM+Applications+%7C+Deep+Learning+%7C+NLP+%F0%9F%9A%80;FastAPI+%7C+PyTorch+%7C+TensorFlow+%7C+LangChain;Researching+%26+Engineering+Intelligent+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&width=900&height=110&lines=%E2%97%86+Computer+Vision+%7C+NLP+%7C+GenAI+%7C+RAG+Systems+%E2%97%86;%E2%9A%A1+YOLOv8+%7C+PyTorch+%7C+LangChain+%7C+FastAPI+%7C+HuggingFace;%F0%9F%94%AC+First+Abstractive+NLP+Benchmark+for+Konkani+Language;%F0%9F%9F%A2+Open+to+Internships+%26+Research+Collaborations" />
 
 </div>
 
-
+<br>
 
 <div align="center">
 
-<a href="mailto:vishaly6215@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/vishal-yadav15">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vishxl08">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://orcid.org/0009-0001-6958-7159">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=vishxl08&style=for-the-badge&color=7c3aed"/>
+[![Gmail](https://img.shields.io/badge/vishaly6215%40gmail.com-1a1040?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0d0d1a)](mailto:vishaly6215@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/vishal--yadav15-1a1040?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=0d0d1a)](https://linkedin.com/in/vishal-yadav15)
+[![GitHub](https://img.shields.io/badge/vishxl08-1a1040?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0d0d1a)](https://github.com/vishxl08)
+[![ORCID](https://img.shields.io/badge/ORCID-1a1040?style=for-the-badge&logo=orcid&logoColor=A78BFA&labelColor=0d0d1a)](https://orcid.org/0009-0001-6958-7159)
+[![Profile Views](https://komarev.com/ghpvc/?username=vishxl08&style=for-the-badge&color=7c6af7&label=PROFILE+VIEWS)](https://github.com/vishxl08)
 
 </div>
 
+---
 
+## `> whoami`
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
-
-python
+```python
 class VishalYadav:
 
-    def __init__(self):
+    name        = "Vishal Yadav"
+    location    = "Greater Noida, India 🇮🇳"
+    university  = "Bennett University — B.Tech CS (AI Specialization)"
+    year        = "2nd Year · Class of 2027"
+    cgpa        = 7.97
 
-        self.role = "AI/ML Engineer"
-
-        self.specialization = [
-            "Machine Learning",
-            "Deep Learning",
-            "NLP",
-            "Computer Vision",
-            "LLM Applications"
-        ]
-
-        self.current_work = [
-            "AI Research",
-            "RAG Systems",
-            "Generative AI",
-            "FastAPI AI Products"
-        ]
-
-        self.languages = ["Python", "C++", "SQL"]
-
-        self.frameworks = [
-            "TensorFlow",
-            "PyTorch",
-            "LangChain",
-            "FastAPI",
-            "Django"
-        ]
-
-        self.status = "Open to internships & collaborations 🚀"
-
+    domains     = ["Computer Vision", "NLP", "Generative AI", "RAG Systems"]
+    stack       = ["Python", "PyTorch", "LangChain", "FastAPI", "YOLOv8", "HuggingFace"]
+    research    = "First abstractive NLP benchmark for Konkani language"
+    
+    belief      = "AI should speak every language — not just English."
+    status      = "🟢 Open to internships & research collaborations"
 
 me = VishalYadav()
+print(f"Building at the intersection of {', '.join(me.domains)}")
+```
 
+---
 
-
-
-# ⚡ Tech Arsenal
+## ⚡ Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,sql,tensorflow,pytorch,fastapi,django,flask,git,github,vscode,linux,postgresql&perline=7"/>
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-0d0d1a?style=for-the-badge&logo=python&logoColor=A78BFA)
+![C++](https://img.shields.io/badge/C++-0d0d1a?style=for-the-badge&logo=cplusplus&logoColor=A78BFA)
+![SQL](https://img.shields.io/badge/SQL-0d0d1a?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=for-the-badge&logo=javascript&logoColor=A78BFA)
+
+**ML / Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d1a?style=for-the-badge&logo=pytorch&logoColor=A78BFA)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d1a?style=for-the-badge&logo=tensorflow&logoColor=A78BFA)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d0d1a?style=for-the-badge&logo=opencv&logoColor=A78BFA)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d0d1a?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-0d0d1a?style=for-the-badge&logoColor=A78BFA)
+
+**GenAI / NLP**
+
+![LangChain](https://img.shields.io/badge/LangChain-0d0d1a?style=for-the-badge&logoColor=A78BFA)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0d1a?style=for-the-badge&logo=huggingface&logoColor=A78BFA)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d0d1a?style=for-the-badge&logoColor=A78BFA)
+![Groq](https://img.shields.io/badge/Groq-0d0d1a?style=for-the-badge&logoColor=A78BFA)
+![RAG](https://img.shields.io/badge/RAG_Systems-0d0d1a?style=for-the-badge&logoColor=A78BFA)
+
+**Backend / Infra**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d1a?style=for-the-badge&logo=fastapi&logoColor=A78BFA)
+![Django](https://img.shields.io/badge/Django-0d0d1a?style=for-the-badge&logo=django&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d1a?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d0d1a?style=for-the-badge&logo=streamlit&logoColor=A78BFA)
+![Vercel](https://img.shields.io/badge/Vercel-0d0d1a?style=for-the-badge&logo=vercel&logoColor=A78BFA)
+
+</div>
+
+---
+
+## 🚀 What I've Built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚽ Football YOLO Analysis
+> `Computer Vision · Real-time Analytics`
+
+Real-time football video analysis with player/ball detection, team classification via **K-Means + SigLIP embeddings**, possession stats, heatmaps & pass networks.
+
+**`mAP@50: 0.981`** · **`Team Accuracy: 90–95%`**
+
+![Python](https://img.shields.io/badge/Python-1a1040?style=flat-square&logoColor=A78BFA&logo=python)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-1a1040?style=flat-square&logoColor=A78BFA)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1040?style=flat-square&logo=pytorch&logoColor=A78BFA)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a1040?style=flat-square&logo=opencv&logoColor=A78BFA)
+
+</td>
+<td width="50%" valign="top">
+
+### 🥗 NutriAI
+> `Full-Stack AI · GenAI Vision`
+
+Cloud-ready nutrition tracker with **Groq Llama Vision** for auto-calorie recognition from food photos, interactive dashboards & serverless Vercel + Neon deployment.
+
+**`Groq Llama Vision`** · **`Serverless on Vercel`**
+
+![Django](https://img.shields.io/badge/Django-1a1040?style=flat-square&logo=django&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1040?style=flat-square&logo=postgresql&logoColor=A78BFA)
+![Groq](https://img.shields.io/badge/Groq-1a1040?style=flat-square&logoColor=A78BFA)
+![JWT](https://img.shields.io/badge/JWT-1a1040?style=flat-square&logoColor=A78BFA)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚖️ ClauseGuard
+> `GenAI · RAG · Legal Tech`
+
+AI-powered legal document risk analyzer — clause-by-clause risk scoring (1–10), plain-English summaries for NDAs, leases & loan docs using **ChromaDB + LangChain RAG**.
+
+**`Instant risk audit`** · **`Groq LLM backend`**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1040?style=flat-square&logo=fastapi&logoColor=A78BFA)
+![LangChain](https://img.shields.io/badge/LangChain-1a1040?style=flat-square&logoColor=A78BFA)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1a1040?style=flat-square&logoColor=A78BFA)
+![Streamlit](https://img.shields.io/badge/Streamlit-1a1040?style=flat-square&logo=streamlit&logoColor=A78BFA)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 Alzheimer Detection
+> `Computer Vision · Medical AI`
+
+CNN-based MRI brain scan classifier predicting **4 stages of Alzheimer's** with high diagnostic accuracy. Built to make early detection accessible.
+
+**`Multi-class CNN`** · **`Medical Imaging`**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1040?style=flat-square&logo=tensorflow&logoColor=A78BFA)
+![Python](https://img.shields.io/badge/Python-1a1040?style=flat-square&logo=python&logoColor=A78BFA)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a1040?style=flat-square&logo=opencv&logoColor=A78BFA)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Research
+
+<div align="center">
+
+> **Abstractive Summarization on a Low-Resource Language: Konkani**  
+> *Mentor: Mr. Vaibhav Sharma · Asst. Professor, SCSET — Bennett University*
+
+</div>
+
+Built the **first known Konkani NLP corpus** — 18,055 article-headline pairs scraped across 9 categories with Unicode normalization for Devanagari script. Fine-tuned **IndicBART** (AI4Bharat's mBART-based seq2seq model) — the first published abstractive NLP benchmark for Konkani.
+
+<div align="center">
+
+![ROUGE-1](https://img.shields.io/badge/ROUGE--1-76.85-7c6af7?style=for-the-badge&labelColor=1a1040)
+![ROUGE-2](https://img.shields.io/badge/ROUGE--2-39.92-00e5ff?style=for-the-badge&labelColor=1a1040)
+![ROUGE-L](https://img.shields.io/badge/ROUGE--L-76.89-f06292?style=for-the-badge&labelColor=1a1040)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishxl08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080810&title_color=7c6af7&icon_color=a78bfa&text_color=c4b5fd&border_radius=16"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=vishxl08&theme=tokyonight&hide_border=true&background=080810&ring=7c6af7&fire=f06292&currStreakLabel=a78bfa&border_radius=16"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishxl08&layout=compact&theme=tokyonight&hide_border=true&bg_color=080810&title_color=7c6af7&text_color=c4b5fd&border_radius=16"/>
 
 </div>
 
+---
 
-
-# 🚀 Featured Projects
+## 📈 Contribution Graph
 
 <div align="center">
 
-| 🚀 Project              | 💡 Description                                          |
-| ----------------------- | ------------------------------------------------------- |
-| 🧠 ClauseGuard          | AI legal document analyzer using RAG + LangChain + Groq |
-| 🍎 NutriAI              | AI-powered nutrition & fitness tracking platform        |
-| 🧬 Alzheimer Detection  | CNN-based MRI disease stage prediction                  |
-| 📚 Konkani NLP Research | First abstractive summarization benchmark for Konkani   |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishxl08&bg_color=080810&color=a78bfa&line=7c6af7&point=f06292&area=true&area_color=7c6af720&hide_border=true"/>
 
 </div>
 
+---
 
-
-# 📊 GitHub Analytics
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishxl08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=vishxl08&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishxl08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+<img src="https://raw.githubusercontent.com/vishxl08/vishxl08/output/snake.svg" alt="snake animation"/>
 
 </div>
 
+---
 
+## 🧠 My Dev Creed
 
-# 📈 Contribution Activity
+```
+◆ Research before code — understand the "why" before the "how"
+◆ Ship fast, learn faster — working code > perfect theory
+◆ Measure everything — ROUGE, mAP, accuracy; no vibe-based decisions
+◆ Build for the underserved — 1600+ languages, most AI ignores 1590 of them
+```
+
+---
+
+## ✦ Beyond The Build
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishxl08&bg_color=0d1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
+| ⚽ Football fan | 🌐 Language nerd (1600+ exist!) | 🌙 Night coder |
+|:-:|:-:|:-:|
+| **📖 ArXiv daily reader** | **🔥 2nd year building like a senior** | **🎯 DSA for (sometimes) fun** |
 
 </div>
 
-
-
-# 🐍 Contribution Snake Animation
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vishxl08/vishxl08/output/snake.svg" alt="Snake animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6af7,50:3d2b8a,100:080810&height=140&section=footer&text=Building%20•%20Researching%20•%20Innovating&fontSize=18&fontColor=c4b5fd&animation=fadeIn&fontAlignY=65"/>
 
 </div>
-
-
-
-# 🔬 Currently Exploring
-
-<div align="center">
-
-| Domain            | Focus                      |
-| ----------------- | -------------------------- |
-| 🤖 AI Engineering | Scalable AI Systems        |
-| 📚 NLP Research   | Low-resource Language AI   |
-| ⚡ Generative AI   | RAG & LLM Pipelines        |
-| 🌐 Backend AI     | FastAPI + LangChain        |
-| 🚀 Open Source    | AI Community Contributions |
-
-</div>
-
-
-
-# 🏆 Certifications
-
-<div align="center">
-
-🥇 NVIDIA — CUDA C++ Accelerated Computing
-🥇 IBM — Introduction to Artificial Intelligence
-🥇 IBM — Python for Data Science & AI
-🥇 Johns Hopkins University — Neural Networks
-
-</div>
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=120&section=footer"/>
-
-### ⭐ Thanks for visiting my profile!
-
-Building • Researching • Innovating 🚀
-
-</div>
-
